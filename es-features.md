@@ -1,6 +1,12 @@
-## What is ECMAScript and Why Should I Care?
+# What is ECMAScript?
 
-(Please help me think of a snazzier title)
+![inline](http://www.quantiklab.com/wp-content/uploads/2016/05/ecmascript6-1.png)
+
+<br>
+
+
+Kim Schlesinger
+@colorado_kim
 
 ---
 
@@ -18,7 +24,11 @@
 
 ![inline](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/02/1454335908es6-arrow-functions-new-fat-and-concise-syntax-in-js03-basic-syntax-with-multiple-parameters.png)
 
-![inline](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnSzyocZ392jyrYQFZhGPOmhrZA4IBzhszfSCDOQDIkPB9bBOwWA)
+^ Fat arrows
+
+^ Template literals
+
+
 ---
 
 
