@@ -48,9 +48,9 @@ By the end of this workshop, you will be able to:
 
 By the end of (a specified time period), the student will be able to:
 
-1. Objective 1
-1. Objective 2
-1. Objective 3
+1. Objective One
+1. Objective Two
+1. Objective Three
 
 ---
 
@@ -65,11 +65,12 @@ By the end of (a specified time period), the student will be able to:
 ---
 
 ## Examples
-* By the end of this workshop, you will be able to
-  * Inspect DOM nodes and elements
-  * Modify existing DOM elements
-  * Create new DOM elements
-  * Describe the Document Object Model
+By the end of this workshop, you will be able to:
+
+- Inspect DOM nodes and elements
+- Modify existing DOM elements
+- Create new DOM elements
+- Describe the Document Object Model
 
 ---
 
@@ -110,7 +111,7 @@ By the end of this workshop, you will be able to:
 By the end of this workshop, you will be able to:
 
 
-2 Describe and demonstrate the teaching technique ‘Post It’
+Describe and demonstrate the teaching technique ‘Post It’
 
 ---
 
@@ -156,7 +157,7 @@ By the end of this workshop, you will be able to:
 # Learning Objectives
 By the end of this workshop, you will be able to:
 
-3 Describe and demonstrate the teaching technique ‘Targeted Questioning’
+Describe and demonstrate the teaching technique ‘Targeted Questioning’
 
 ---
 #  Great Teaching
@@ -220,7 +221,7 @@ http://gjobs.link/LeadInstructor
 Kim Schlesinger
 
 kim.schlesinger@galvanize.com
-@kim on DenverDevs
+`@kim` on DenverDevs
 
 kimschlesinger.com
 
