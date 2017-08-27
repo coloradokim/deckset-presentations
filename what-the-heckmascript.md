@@ -50,6 +50,8 @@ const sayHi = (name) => {
 
 ## Danny
 
+![](https://avatars2.githubusercontent.com/u/315788?v=4&s=460)
+
 ---
 
 
@@ -293,7 +295,8 @@ Stage | Name | Action |
 
 ---
 
-# Thank You!
+![inline left](https://media.giphy.com/media/9Gp5ZwY8FRvna/giphy.gif)
+
 
 kim.schlesinger@galvanize.com
 
