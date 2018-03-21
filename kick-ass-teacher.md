@@ -22,6 +22,8 @@ By the end of this workshop, you will be able to:
 By the end of this workshop, you will be able to:
 
 1. Write 2-3 learning objectives that meet the ‘4M’ criteria
+1. Describe the purpose of crafting learning objectives
+
 
 ---
 
@@ -95,6 +97,16 @@ By the end of this workshop, you will be able to:
 1. Most Important
 
 ![](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fmysticalnumbers.com%2Fwp-content%2Fuploads%2F2012%2F06%2FNumber-4-on-fire.png&f=1)
+
+---
+
+# Learning Objectives
+By the end of this workshop, you will be able to:
+
+1. Write 2-3 learning objectives that meet the ‘4M’ criteria
+1. Describe the purpose of crafting learning objectives
+
+
 
 ---
 
