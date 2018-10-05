@@ -62,10 +62,6 @@ By the end of (a specified time period), the student will be able to:
 
 ---
 
-![](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.fractuslearning.com%2Fwp-content%2Fuploads%2F2016%2F01%2Fblooms-taxonomy-verbs.png&f=1)
-
----
-
 ## Examples
 By the end of this workshop, you will be able to:
 
@@ -219,15 +215,6 @@ Describe and demonstrate the teaching technique ‘Targeted Questioning’
 
 ---
 
-# Galvanize is Hiring!
-
-## Galvanize is hiring big-hearted, hard working educators who also code. Interested? Talk to me after this session.
-
-http://gjobs.link/LeadInstructor
-
-![](https://www.emojirequest.com/images/OrangeHeartEmoji.jpg)
-
----
 # Thank You!
 
 Kim Schlesinger
