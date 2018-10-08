@@ -1,10 +1,27 @@
-footer: Kim Schlesinger 
+footer: Kim Schlesinger @kimschles
 slidenumbers: true
 
 # Zero to SRE 
 
 --- 
+# develop denver 
+
+--- 
+# diversity 
+* Social Impact + tech focused on startup
+* Women founded company, including woman of color
+* Already have traction (Current clients include Zayo Group, SendGrid, Stackery, Redbubble, and more!)
+* 45k twitter impressions per month from coders from underrepresented communities all over the US
+* Platform launched in September 2018
+---
+![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1539033708/Call_for_partners_v2.png)
+
+---
 # Kim 
+
+# 👩🏼‍🏫      📘       💻
+![inline 50%](http://res.cloudinary.com/kimschlesinger/image/upload/c_scale,w_2960/v1524009870/kimschlesinger-headshot.jpg)
+
 
 --- 
 # ReactiveOps
@@ -12,10 +29,9 @@ slidenumbers: true
 ![inline](https://s3-us-west-2.amazonaws.com/develop-denver-user-images/reactiveops.png)
 
 ---
-# diversity 
 
---- 
-# develop denver 
+
+
 
 --- 
 # Why? 
