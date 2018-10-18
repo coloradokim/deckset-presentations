@@ -12,6 +12,10 @@ slidenumbers: true
 --- 
 ![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1539033708/Call_for_partners_v2.png)
 
+^- Women-founded company, including woman of color.
+- Already have traction (Current clients include Zayo Group, SendGrid, Stackery, Redbubble, and more!)
+- 45k twitter impressions per month from coders from underrepresented communities all over the US.
+- Platform launched in September 2018.
 
 --- 
 
@@ -84,8 +88,6 @@ Pairing and Real Work
 --- 
 # First Week 
 
-Learning Plan 
-
 Prioritize developing muscle memory and getting exerience over mastering theory and concepts 
 
 ![inline](https://i.ytimg.com/vi/oRmOERq7vQQ/maxresdefault.jpg)
@@ -102,10 +104,14 @@ Glossary and Active Recall
 
 # First 90 Days 
 
-Start flipping the ratio 
+Start flipping the ratio of learning plan work to work on the codebase 
 
 --- 
 # First 90 Days 
+
+![inline](https://www.cncf.io/wp-content/uploads/2018/04/kubernetes-ckad-color.png)
+
+![inline](https://www.it-training.pro/wp-content/uploads/2016/12/lpi-roadmap.png)
 
 ![inline](https://www.awsforbusiness.com/wp-content/uploads/2017/03/AWS-Certifications-5.jpg)
 
@@ -113,23 +119,63 @@ Start flipping the ratio
 --- 
 # First 90 Days 
 
-Review the ladder 
+![inline](https://secure.img1-fg.wfcdn.com/im/38786677/resize-h600-w600%5Ecompr-r85/3643/36436570/6+ft+Decorative+Ladder.jpg)
 
+^Review the ladder and make sure progress has been made 
+Reflect and make changes
 
 --- 
 # Interviewing for a Junior SRE 
 
+Traits to looks for: 
+
 Curiosity 
 Interested in your Tech
-Experience learning without a lot of structure 
+Can learn
 Can ask for help 
+
+--- 
+# Company Requirements 
+
+Culture of Learning 
+Time to pair and mentor
+Willingness to see uneven growth in the junior engineer
+The entire engineering team fully embraces hiring newbies 
+
 
 --- 
 # Recommended Learning Resources 
 
+[shortcutfoo](shortcutfoo.com)
+
+
+[katacoda](katacoda.com)
+
+
+[linuxacademy](linuxacademy.com) 
+
 
 ---
 # Recap 
+
+---
+
+Hire junior engineers
+
+---
+
+Support them by setting goals in a learning plan and an engineering ladder 
+
+--- 
+
+Get them doing real work ASAP through pairing and breaking down tasks into something they can do 
+
+---
+
+
+# Questions? 
+
+![](https://cdn-images-1.medium.com/max/2000/1*y32goTcrvncb8ot3jcTsEA.png)
 
 
 --- 
