@@ -1,10 +1,10 @@
-footer: kimschles
-slidenumbers: true
+
+
 
 # Zero to SRE 
 
 --- 
-## October 18-19
+
 
 ![inline](./images/dvlpdnvr.pdf)
 
@@ -63,7 +63,7 @@ Kubernetes
 --- 
 # First Day 
 
-Clear, Measureable Behavioral Expectations
+Clear, Measurable Behavioral Expectations
 
 ![inline](https://imageog.flaticon.com/icons/png/512/38/38614.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)
 
