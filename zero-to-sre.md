@@ -6,19 +6,6 @@
 --- 
 
 
-![inline](./images/dvlpdnvr.pdf)
-
-
---- 
-![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1539033708/Call_for_partners_v2.png)
-
-^- Women-founded company, including woman of color.
-- Already have traction (Current clients include Zayo Group, SendGrid, Stackery, Redbubble, and more!)
-- 45k twitter impressions per month from coders from underrepresented communities all over the US.
-- Platform launched in September 2018.
-
---- 
-
 ![inline](./images/RO-Logo-White.svg)
 
 ---
@@ -42,6 +29,26 @@
 
 --- 
 # Zero to SRE 
+
+
+--- 
+
+* What should be true about your company _before_ you hire junior engineers 
+* First Day, Month, 90 Days 
+
+--- 
+ReactiveOps
+
+(story time with a picture of Sarah)
+
+--- 
+Break it Down 
+
+Learning time (for real!)
+* 20% Time 
+Engineering Teams are why you make $$$ 
+Culture of Error 
+
 
 ---
 # First Day 

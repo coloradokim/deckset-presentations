@@ -74,6 +74,27 @@ Skip Nav
 
 Add it to the top of your header component
 
+
+```js
+import React from 'react';
+
+const SkipNav = () => (
+    <ul id="section-skipnav" aria-label="Skipnav" role="navigation">
+        <li className="skipnav-item">
+            <a href="#section-main">
+                Skip to Main Content</a>
+        </li>
+        <li class="skipnav-item">
+            <a href="/accessibility-statement">Accessibility Statement</a>
+        </li>
+    </ul>
+);
+
+export default SkipNav;
+``` 
+
+
+`<main id="section-main">` 
 --- 
 What Can You Do? 
 
