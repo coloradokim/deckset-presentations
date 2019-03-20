@@ -68,8 +68,8 @@ I'm leaving at the end of the month
 ## 1. Use multiple tools to identify accessibility issues 
 
 * WAVE Extension 
-* A11y Checklist 
-* Good models 
+* [A11y Checklist](https://a11yproject.com/checklist)
+* Good examples you can deconstruct 
 * Manual Testing with a Screen Reader 
 
 ---
@@ -83,13 +83,24 @@ I'm leaving at the end of the month
 --- 
 # Before 
 
-```js
+```javascript
 const CompanyProfileCard = (props : Props) => (
   <CustomCard onClick={props.onClick}>
-    <Media style={{
-      paddingTop: '20px',
-      paddingLeft: '20px'
-    }}>
+      <Media left>
+        <Link to={`/company/${props.id}`}>
+          <Media object src={props.logo} width="100" alt="Logo"/>
+        </Link>
+      </Media>
+```
+
+---
+# Before 
+
+[.code-highlight: 5]
+
+```javascript
+const CompanyProfileCard = (props : Props) => (
+  <CustomCard onClick={props.onClick}>
       <Media left>
         <Link to={`/company/${props.id}`}>
           <Media object src={props.logo} width="100" alt="Logo"/>
@@ -100,26 +111,47 @@ const CompanyProfileCard = (props : Props) => (
 ---
 # After 
 
-```js
+[.code-highlight: 5]
+
+```javascript
 const CompanyProfileCard = (props : Props) => (
   <CustomCard onClick={props.onClick}>
-    <Media style={{
-      paddingTop: '20px',
-      paddingLeft: '20px'
-    }}>
       <Media left>
         <Link to={`/company/${props.id}`}>
           <Media object src={props.logo} width="100" alt={`${props.name} logo`}/>
         </Link>
       </Media>
 ```
+---
 
---- 
+![left 25%](https://www.goodfreephotos.com/albums/vector-images/colorful-brain-map-vector-clipart.png)
 
-# Skip Nav
+Use JS template literals to dynamically populate alt text for images 
 
-Add it to the top of your header component
+---
 
+## 1. Use multiple tools to identify accessibility issues 
+
+---
+## 1. Use multiple tools to identify accessibility issues 
+
+* [A11y Checklist](https://a11yproject.com/checklist)
+* Good examples you can deconstruct 
+    * [The A11y Project](https://a11yproject.com/)
+    * [Eric Bailey Design](https://ericwbailey.design/writing/2019-03-05-fighting-uphill.html)
+    * [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
+* Manual Testing with a Screen Reader 
+
+---
+
+# Provide a “Skip to main content” link 
+
+---
+
+### Add the skip nav code, or component, to the top of your header 
+
+
+---
 
 ```js
 import React from 'react';
@@ -127,8 +159,7 @@ import React from 'react';
 const SkipNav = () => (
     <ul id="section-skipnav" aria-label="Skipnav" role="navigation">
         <li className="skipnav-item">
-            <a href="#section-main">
-                Skip to Main Content</a>
+            <a href="#section-main">Skip to Main Content</a>
         </li>
         <li class="skipnav-item">
             <a href="/accessibility-statement">Accessibility Statement</a>
@@ -139,12 +170,32 @@ const SkipNav = () => (
 export default SkipNav;
 ``` 
 
+---
 
-`<main id="section-main">` 
+![left 25%](https://www.goodfreephotos.com/albums/vector-images/colorful-brain-map-vector-clipart.png)
+
+Create a way for people using screen readers to skip to the main content of the page 
+
+ ```html
+<a href="#main">Skip to main content</a>
+<main id="section-main">
+```
+
 --- 
+# 1. Use multiple tools to identify issues 
+
+--- 
+## 2. Commit to accessibility being an ongoing process, not a one time fix
+
+---
+# Accessibility Statement 
+
+
+
+--- 
+
 What Can You Do? 
 
-Find accessible sites and inspect the source HTML 
 
 Company? Ask what you're doing 
 School? Ask when that is covered, and if not why 
@@ -158,9 +209,8 @@ Attend the FRA meetup in Boulder
 * [Wave Web Accessibility Evaluation System](http://wave.webaim.org/)
 * [a11y Web Accessibility Checklist](https://a11yproject.com/checklist)
 * [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
-* [Crystal's dvlp dnvr Talk]()
 * [Eric Bailey: Fighting Uphill](https://ericwbailey.design/writing/2019-03-05-fighting-uphill.html)
-
+* [Crystal's dvlp dnvr Talk]()
 
 --- 
 # Questions
