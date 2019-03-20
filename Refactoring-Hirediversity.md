@@ -20,29 +20,70 @@ slidenumbers: true
 --- 
 
 
-![!inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1552522996/logo-white.png)
+![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1552522996/logo-white.png)
 
 ---
 
-# Accessibility 
+# Refactoring hirediversity.us
+
+--- 
+# The Journey 
+
+![left](images/path.jpg)
+
+^ Company is ~2 years old 
+Platform is pushed out quickly with lots of developers 
+Corners were cut 
+I'm leaving at the end of the month 
 
 ---
-# Accessibility 
-Lessons Learned: 
-* There not one tool to rule them all 
-* Another one here 
-* Another one here 
-* Accessibility Statement 
+## I thought I knew more than I did... 
+
+![inline](https://media.giphy.com/media/321HrzkqKyUt6cxCOI/giphy.gif)
+
+^ I have a master's degree in special education, I taught special education and worked with students who used assistive technology, I get the a11y newsletter and I've been to the Front Range Accessibility and Inclusive Design Meetup
+
+--- 
+![inline](https://cdn-images-1.medium.com/max/1200/1*eAP4oWRbmQh05pwNwtv0gw.png)
+
+--- 
+# What is accessibilty? 
+
+> Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. 
+
+--WC3 Web Accessibility Initiative
+
 
 ---
+# Accessibility Lessons 
+1. Use multiple tools to identify issues 
+1. Commit to accessibility being an ongoing process, not a one time fix
+1. An accessibility refactor may be more valuable than a code refactor  
 
-# Accessibility 
+--- 
+
+## 1. Use multiple tools to identify accessibility issues 
+
+---
+## 1. Use multiple tools to identify accessibility issues 
+
+* WAVE Extension 
+* A11y Checklist 
+* Good models 
+* Manual Testing with a Screen Reader 
+
+---
 ## WAVE Extension 
 
 ![inline](https://youtu.be/ZInUExMcVVA)
 
 --- 
+## alt text 
 
+--- 
+# Before 
+
+```js
 const CompanyProfileCard = (props : Props) => (
   <CustomCard onClick={props.onClick}>
     <Media style={{
@@ -54,8 +95,12 @@ const CompanyProfileCard = (props : Props) => (
           <Media object src={props.logo} width="100" alt="Logo"/>
         </Link>
       </Media>
+```
 
+---
+# After 
 
+```js
 const CompanyProfileCard = (props : Props) => (
   <CustomCard onClick={props.onClick}>
     <Media style={{
@@ -67,10 +112,11 @@ const CompanyProfileCard = (props : Props) => (
           <Media object src={props.logo} width="100" alt={`${props.name} logo`}/>
         </Link>
       </Media>
+```
 
 --- 
 
-Skip Nav
+# Skip Nav
 
 Add it to the top of your header component
 
@@ -119,14 +165,6 @@ Attend the FRA meetup in Boulder
 --- 
 # Questions
 
----
-
-
-# Writing 'just enough' unit and integration tests
-
----
-
-# Refactoring React Components
 
 --- 
 ![left](https://media.giphy.com/media/5ArJanyCfxgiY/giphy.gif)
