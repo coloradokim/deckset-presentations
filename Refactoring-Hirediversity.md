@@ -47,7 +47,7 @@ I'm leaving at the end of the month
 ![inline](https://cdn-images-1.medium.com/max/1200/1*eAP4oWRbmQh05pwNwtv0gw.png)
 
 --- 
-# What is accessibilty? 
+# What is accessibility? 
 
 > Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. 
 
@@ -171,15 +171,32 @@ export default SkipNav;
 ``` 
 
 ---
+```css
+.skipnav-item {
+border: 0;
+clip: rect(0, 0, 0, 0);
+height: 1px;
+margin: -1px;
+overflow: hidden;
+padding: 0;
+position: absolute;
+width: 1px;
+}
+```
+
+--- 
+ ```html
+<main id="section-main">
+```
+
+
+---
 
 ![left 25%](https://www.goodfreephotos.com/albums/vector-images/colorful-brain-map-vector-clipart.png)
 
-Create a way for people using screen readers to skip to the main content of the page 
+* Create a way for people using screen readers to skip to the main content of the page 
 
- ```html
-<a href="#main">Skip to main content</a>
-<main id="section-main">
-```
+* If you're using a JS framework, make this a component you can easily reuse
 
 --- 
 # 1. Use multiple tools to identify issues 
@@ -190,19 +207,122 @@ Create a way for people using screen readers to skip to the main content of the 
 ---
 # Accessibility Statement 
 
+--- 
+```javascript
+import React from 'react';
+
+const SkipNav = () => (
+    <ul id="section-skipnav" aria-label="Skipnav" role="navigation">
+        <li className="skipnav-item">
+            <a href="#section-main">Skip to Main Content</a>
+        </li>
+        <li class="skipnav-item">
+            <a href="/accessibility-statement">Accessibility Statement</a>
+        </li>
+    </ul>
+);
+
+export default SkipNav;
+``` 
+
+---
+[.code-highlight: 9]
+```javascript
+import React from 'react';
+
+const SkipNav = () => (
+    <ul id="section-skipnav" aria-label="Skipnav" role="navigation">
+        <li className="skipnav-item">
+            <a href="#section-main">Skip to Main Content</a>
+        </li>
+        <li class="skipnav-item">
+            <a href="/accessibility-statement">Accessibility Statement</a>
+        </li>
+    </ul>
+);
+
+export default SkipNav;
+``` 
+
+---
+# Why? 
+Accessibility statements are important for several reasons:
+> * Show your users that you care about accessibility and about them
+* Provide them with information about the accessibility of your content
+* Demonstrate commitment to accessibility, and to social responsibility 
+
+-- [W3C Web Accessibility Initiative](https://www.w3.org/WAI/planning/statements/)
+
+
+---
+# Example 
+
+[Eric Bailey Accessibility Statement](https://ericwbailey.design/accessibility-statement.html)
+
+--- 
+
+![left 25%](https://www.goodfreephotos.com/albums/vector-images/colorful-brain-map-vector-clipart.png)
+
+* Include an accessibility statement to state your intentions, your known accessibility issues and how to contact someone if there are barriers to access 
+* Continue working on making your site accessible, and update your statement as needed 
+
+
+---
+## 2. Commit to accessibility being an ongoing process, not a one time fix
 
 
 --- 
 
-What Can You Do? 
+## 3. An accessibility refactor may be more valuable than a code refactor  
+
+--- 
+
+# WebAIM Million 
+
+* 97.8% of home pages had detectable WCAG 2 failures
+
+* [WebAIM Million](https://webaim.org/projects/million/)
 
 
-Company? Ask what you're doing 
-School? Ask when that is covered, and if not why 
-* offer lesson
-Attend the FRA meetup in Boulder 
+--- 
+![left 25%](https://www.goodfreephotos.com/albums/vector-images/colorful-brain-map-vector-clipart.png)
+
+* Doing an accessibility refactor will help you remember who your users are and why your product exists 
+* An accessibility refactor will force you to clean up your code 
 
 
+---
+
+![left](https://media.giphy.com/media/3bznNfsTHIhoa3ctoH/giphy.gif)
+
+# What Can I Do? 
+
+
+--- 
+# If you work at a company
+
+* Find ways to discuss accessibility with people in positions of leadership
+* Offer to lead a lunch and learn on the topic 
+
+
+--- 
+# If you're in school 
+* Ask your instructor when you'll be covering accessibility in the curriculum. 
+* If it will not be covered, respectfully ask 'why not?'
+* Give a lightning talk or lesson about the topic
+
+--- 
+# Everyone 
+
+* Attend the the [Front Range Accessibility and Inclusive Design Meetup](https://www.meetup.com/a11yFR/) in Boulder! 
+* Subscribe to the A11y Weekly Newsletter 
+
+--- 
+# Recap 
+
+1. Use multiple tools to identify issues 
+1. Commit to accessibility being an ongoing process, not a one time fix
+1. Consider prioritizing an accessibility refactor over a code refactor `
 
 ---
 # Accessibility Resources
@@ -210,7 +330,7 @@ Attend the FRA meetup in Boulder
 * [a11y Web Accessibility Checklist](https://a11yproject.com/checklist)
 * [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 * [Eric Bailey: Fighting Uphill](https://ericwbailey.design/writing/2019-03-05-fighting-uphill.html)
-* [Crystal's dvlp dnvr Talk]()
+* [Crystal Preston-Watson Demystifying Accessibility Talk](https://www.youtube.com/watch?v=p3IJFMVKWyk)
 
 --- 
 # Questions
