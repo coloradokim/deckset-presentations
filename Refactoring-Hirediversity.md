@@ -69,8 +69,9 @@ I'm leaving at the end of the month
 
 * WAVE Extension 
 * [A11y Checklist](https://a11yproject.com/checklist)
-* Good examples you can deconstruct 
 * Manual Testing with a Screen Reader 
+* Good examples you can deconstruct 
+
 
 ---
 ## WAVE Extension 
@@ -250,14 +251,14 @@ Accessibility statements are important for several reasons:
 > * Show your users that you care about accessibility and about them
 * Provide them with information about the accessibility of your content
 * Demonstrate commitment to accessibility, and to social responsibility 
-
 -- [W3C Web Accessibility Initiative](https://www.w3.org/WAI/planning/statements/)
 
 
 ---
-# Example 
+# Examples 
 
-[Eric Bailey Accessibility Statement](https://ericwbailey.design/accessibility-statement.html)
+* [diversity Accessibility Statement](https://company-profile-a960a.firebaseapp.com/accessibility-statement/)
+* [Eric Bailey Accessibility Statement](https://ericwbailey.design/accessibility-statement.html)
 
 --- 
 
@@ -322,7 +323,7 @@ Accessibility statements are important for several reasons:
 
 1. Use multiple tools to identify issues 
 1. Commit to accessibility being an ongoing process, not a one time fix
-1. Consider prioritizing an accessibility refactor over a code refactor `
+1. Consider prioritizing an accessibility refactor over a code refactor
 
 ---
 # Accessibility Resources
