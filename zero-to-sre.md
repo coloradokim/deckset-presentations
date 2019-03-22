@@ -1,71 +1,103 @@
-
-
+footer: kimschles
+slidenumbers: true
 
 # Zero to SRE 
 
+![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1553226540/rocket.png)
+
+## Kim Schlesinger
+### ReactiveOps and diversity 
+
 --- 
 
+![left 75%](http://res.cloudinary.com/kimschlesinger/image/upload/c_scale,w_2960/v1524009870/kimschlesinger-headshot.jpg)
+
+# Kim Schlesinger
+### Ops, Education & Software 
+
+
+---
 
 ![inline](./images/RO-Logo-White.svg)
 
 ---
-# Kim 
-
-# 🎹    👩🏼‍🏫      📘       💻
-![inline 50%](http://res.cloudinary.com/kimschlesinger/image/upload/c_scale,w_2960/v1524009870/kimschlesinger-headshot.jpg)
+![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1552522996/logo-white.png)
 
 ---
- 
-![inline 90%](http://snappyimages.nextwavesrl.netdna-cdn.com/img/4af30202eb5b96957c60a388010c52da.png)
+# My Journey 
 
-^Why? 
-
----
- ![inline](http://www.infrasofttech.com/sites/default/files/DevOps-New_0.png)
- 
-
-^Why? 
-^Ops is harder to learn than web dev using personal projects
+![left](images/path.jpg)
 
 --- 
 # Zero to SRE 
 
+![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1553226540/rocket.png)
+
+
 
 --- 
+# Before, During and After 
 
-* What should be true about your company _before_ you hire junior engineers 
-* First Day, Month, 90 Days 
-
---- 
-ReactiveOps
-
-(story time with a picture of Sarah)
+* Before you make your hire, what should be true?
+* First Day, Week, 90 Days and Year 
 
 --- 
-Break it Down 
+# What should be true about your company _before_ you hire junior engineers?
 
-Learning time (for real!)
-* 20% Time 
-Engineering Teams are why you make $$$ 
-Culture of Error 
+---
+# Sarah Zelechoski, VP of Engineering at ReactiveOps
 
+![inline](./images/sarah.jpg)
+
+--- 
+# 20% Time for Learning 
+
+
+--- 
+# Culture of Error 
+
+
+--- 
+# Make engineering teams, not individual engineers, critical to your bottom line. 
+
+---
+![left 25%](https://www.goodfreephotos.com/albums/vector-images/colorful-brain-map-vector-clipart.png)
+
+### Before hiring junior engineers, strive to create a compassionate environment where all engineers can learn and grow. 
+
+---
+# Preparing and Pulling It Off 
+
+* **Before you make your hire, what should be true?**
+* First Day, Week, 90 Days and Year
+
+---
+# Preparing and Pulling It Off 
+
+* Before you make your hire, what should be true?
+* **First Day, Week, 90 Days and Year**
 
 ---
 # First Day 
+Your leadership team should have these ready for your new hire: 
 
-Learning Plan as part of Onboarding 
+* Leveling doc
+* Technical Onboarding Curriculum   
 
 --- 
+# First Day 
 
-# First Day
-### Example Topics: 
+Your engineering teams should:
 
-Git 
-Shell Commands 
-Cloud Computing 
-VPC with AWS and GCP 
-Docker
-Kubernetes 
+* Start integrating the new hire onto their team 
+* Communicate a timeline for contributing to your codebase/client work 
+
+---
+# Gradual Release of Responsibility 
+
+![inline](https://sites.google.com/a/mcoeapps.org/grr/_/rsrc/1264618718911/home/GRR_GraphicOverview.2010.png)
+
+
 
 --- 
 # First Day 
@@ -75,20 +107,62 @@ Clear, Measurable Behavioral Expectations
 ![inline](https://imageog.flaticon.com/icons/png/512/38/38614.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)
 
 --- 
-From Truss Insfrastructure 
+From [Truss](truss.works) Leveling Doc  
 
-![inline](http://snappyimages.nextwavesrl.netdna-cdn.com/img/02bc4584ff594189956cc60d79a2e74a.png)
+![inline](./images/truss-page-1.jpg)
+
+
+--- 
+From [Truss](truss.works) Leveling Doc
+
+![inline](./images/truss-page-2.jpg)
+
+--- 
+![inline](https://secure.img1-fg.wfcdn.com/im/38786677/resize-h600-w600%5Ecompr-r85/3643/36436570/6+ft+Decorative+Ladder.jpg)
+
+
+---
+
+# First Day
+# Technical Onboarding Curriculum 
+
+
+--- 
+# Example Topics: 
+
+* Git 
+* yaml 
+* Shell Commands 
+* VPC with AWS and GCP 
+* Docker
+* Kubernetes 
+
+--- 
+# Outcomes-Based
+
+* Your junior engineer should complete projects, large and small, as part of the curriculum
+* Work with the new hire to set deadlines
+* Setup a process that makes it easy for the new hire to ask for help 
+* Better yet, set up recurring checkins 
+
+
+--- 
+# ReactiveOps Technical Onboarding Curriculum 
+
+<example>
+
 
 ---
 # First Day 
 Communicate a timeline for contributing to your codebase/client work 
 
-### 1 week, 1 month, 6 months? 
+
+## 1 week, 1 month, 6 months? 
+
 
 --- 
 # First Week 
 Pairing and Real Work
-
 
 ![inline](https://farm2.staticflickr.com/1587/25392428253_996ea9dd5a_k.jpg)
 
@@ -126,71 +200,27 @@ Start flipping the ratio of learning plan work to work on the codebase
 --- 
 # First 90 Days 
 
-![inline](https://secure.img1-fg.wfcdn.com/im/38786677/resize-h600-w600%5Ecompr-r85/3643/36436570/6+ft+Decorative+Ladder.jpg)
 
-^Review the ladder and make sure progress has been made 
-Reflect and make changes
-
---- 
-# Interviewing for a Junior SRE 
-
-Traits to looks for: 
-
-Curiosity 
-Interested in your Tech
-Can learn
-Can ask for help 
-
---- 
-# Company Requirements 
-
-Culture of Learning 
-Time to pair and mentor
-Willingness to see uneven growth in the junior engineer
-The entire engineering team fully embraces hiring newbies 
 
 
 --- 
-# Recommended Learning Resources 
-
-[shortcutfoo](shortcutfoo.com)
-
-
-[katacoda](katacoda.com)
-
-
-[linuxacademy](linuxacademy.com) 
-
-
----
 # Recap 
-
----
-
 Hire junior engineers
-
----
-
 Support them by setting goals in a learning plan and an engineering ladder 
-
---- 
-
 Get them doing real work ASAP through pairing and breaking down tasks into something they can do 
 
----
-
-
-# Questions? 
-
-![](https://cdn-images-1.medium.com/max/2000/1*y32goTcrvncb8ot3jcTsEA.png)
-
 
 --- 
-![inline](https://media.giphy.com/media/9Gp5ZwY8FRvna/giphy.gif)
 
-developdenver.org 
+
+![inline left](https://media.giphy.com/media/9Gp5ZwY8FRvna/giphy.gif)
+
 hirediversity.us 
+reactiveops.com
 kimschlesinger.com
+
+---
+
 
 
 
