@@ -13,7 +13,7 @@ slidenumbers: true
 ![left 75%](http://res.cloudinary.com/kimschlesinger/image/upload/c_scale,w_2960/v1524009870/kimschlesinger-headshot.jpg)
 
 # Kim Schlesinger
-### Ops, Education & Software 
+### Ops, Software & Education
 
 
 ---
@@ -29,6 +29,9 @@ slidenumbers: true
 ![left](images/path.jpg)
 
 --- 
+![inline](./images/steve-tweet.png)
+
+--- 
 # Zero to SRE 
 
 ![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1553226540/rocket.png)
@@ -36,7 +39,7 @@ slidenumbers: true
 
 
 --- 
-# Before, During and After 
+# Preparing and Pulling It Off 
 
 * Before you make your hire, what should be true?
 * First Day, Week, 90 Days and Year 
@@ -63,7 +66,8 @@ slidenumbers: true
 ---
 ![left 25%](https://www.goodfreephotos.com/albums/vector-images/colorful-brain-map-vector-clipart.png)
 
-### Before hiring junior engineers, strive to create a compassionate environment where all engineers can learn and grow. 
+* Before hiring junior engineers, strive to create a compassionate environment where all engineers can learn and grow. 
+* Make teamwork essential to your business 
 
 ---
 # Preparing and Pulling It Off 
@@ -78,6 +82,12 @@ slidenumbers: true
 * **First Day, Week, 90 Days and Year**
 
 ---
+# Gradual Release of Responsibility 
+
+![inline](https://sites.google.com/a/mcoeapps.org/grr/_/rsrc/1264618718911/home/GRR_GraphicOverview.2010.png)
+
+--- 
+
 # First Day 
 Your leadership team should have these ready for your new hire: 
 
@@ -93,11 +103,8 @@ Your engineering teams should:
 * Communicate a timeline for contributing to your codebase/client work 
 
 ---
-# Gradual Release of Responsibility 
 
-![inline](https://sites.google.com/a/mcoeapps.org/grr/_/rsrc/1264618718911/home/GRR_GraphicOverview.2010.png)
-
-
+# Leadership Team Day One
 
 --- 
 # First Day 
@@ -105,6 +112,9 @@ Your engineering teams should:
 Clear, Measurable Behavioral Expectations
 
 ![inline](https://imageog.flaticon.com/icons/png/512/38/38614.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)
+
+--- 
+# Engineering Leveling Doc
 
 --- 
 From [Truss](truss.works) Leveling Doc  
@@ -141,8 +151,17 @@ From [Truss](truss.works) Leveling Doc
 # Outcomes-Based
 
 * Your junior engineer should complete projects, large and small, as part of the curriculum
+
+---
+# Outcomes-Based
 * Work with the new hire to set deadlines
+
+--- 
+# Outcomes-Based
 * Setup a process that makes it easy for the new hire to ask for help 
+
+--- 
+# Outcomes-Based
 * Better yet, set up recurring checkins 
 
 
@@ -153,6 +172,16 @@ From [Truss](truss.works) Leveling Doc
 
 
 ---
+# Integrate Your New Hire into their team
+
+--- 
+# First Day 
+
+* Introduce them to the team
+* Get them scheduled for all team meetings
+
+
+---  
 # First Day 
 Communicate a timeline for contributing to your codebase/client work 
 
@@ -177,18 +206,29 @@ Prioritize developing muscle memory and getting exerience over mastering theory 
 --- 
 # First Week 
 
-Glossary and Active Recall 
-
-^ Show wiki 
+Glossary 
 
 --- 
+# First week 
 
-# First 90 Days 
-
-Start flipping the ratio of learning plan work to work on the codebase 
+* Have a one-on-one with your new hire
+* Do this on a regular interval, weekly if possible
 
 --- 
 # First 90 Days 
+
+* Review the new engineer's progress as compared against the leveling doc
+* Promote them if they've leveled up! 
+
+--- 
+# First 90 Days 
+
+* Start flipping the ratio of learning plan work to work on the codebase 
+
+--- 
+# First 90 Days 
+
+* Consider encouraging your new engineer to tak a professional exam to accelerate their learning
 
 ![inline](https://www.cncf.io/wp-content/uploads/2018/04/kubernetes-ckad-color.png)
 
@@ -199,6 +239,26 @@ Start flipping the ratio of learning plan work to work on the codebase
 
 --- 
 # First 90 Days 
+
+* Start hiring more juniors
+* It's lonely if you're the only junior in an ocean of seniors 
+
+--- 
+# First Year 
+
+* Review the new engineer's progress as compared against the leveling doc
+* Promote them if they've leveled up! 
+* Pat yourself on the back 
+
+
+--- 
+# Gradual Release of Responsibility 
+
+![inline](https://sites.google.com/a/mcoeapps.org/grr/_/rsrc/1264618718911/home/GRR_GraphicOverview.2010.png)
+
+
+
+
 
 
 
