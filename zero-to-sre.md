@@ -3,8 +3,6 @@ footer: @kimschles
 
 # Zero to SRE 
 
-![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1553226540/rocket.png)
-
 ## Kim Schlesinger
 
 ---
@@ -37,10 +35,6 @@ footer: @kimschles
 --- 
 # Zero to SRE 
 
-![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1553226540/rocket.png)
-
-
-
 --- 
 
 # 1. Prepare (image)
@@ -65,6 +59,7 @@ picture of capacity planning spreadsheet
 
 --- 
 # Make engineering teams, not individual engineers, critical to your bottom line. 
+![](https://www.publicdomainpictures.net/pictures/230000/nahled/money-1501252666apF.jpg)
 
 ---
 # Prepare (image)
@@ -101,14 +96,15 @@ picture of capacity planning spreadsheet
 ![left](./images/day.png)
 
 --- 
+# Clear and Measurable Expectations
 
 ![inline](https://imageog.flaticon.com/icons/png/512/38/38614.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)
 
-^ Clear, Measurable Behavioral Expectations
+
 
 --- 
 # Engineering Leveling Doc
-![inline](https://secure.img1-fg.wfcdn.com/im/38786677/resize-h600-w600%5Ecompr-r85/3643/36436570/6+ft+Decorative+Ladder.jpg)
+![left](https://secure.img1-fg.wfcdn.com/im/38786677/resize-h600-w600%5Ecompr-r85/3643/36436570/6+ft+Decorative+Ladder.jpg)
 
 --- 
 From [Truss](truss.works) Leveling Doc  
@@ -155,15 +151,16 @@ From [Truss](truss.works) Leveling Doc
 
 
 ---
-# Integrate your new hire into their team. 
+# Integrate your new hire into their team.[^1]
 ![](./images/team.jpg)
 
-^ Introduce them to the team and get them scheduled for all team meetingss
+[^1]: Photo by #WOCinTech Chat.
+
+^ Introduce them to the team and get them scheduled for all team meetings
 
 --- 
 
-## Communicate a timeline for contributing to your codebase or client work 
-
+## Be explicit about your desired timeline for the junior SRE's first independent contribution. 
 
 
 
@@ -173,35 +170,53 @@ From [Truss](truss.works) Leveling Doc
 ![left](./images/week.png)
 
 --- 
-# First Week 
-Pairing and Real Work
+# Pairing and Real Work 
+![left 90%](./images/pairing.jpg)
 
-![inline](https://farm2.staticflickr.com/1587/25392428253_996ea9dd5a_k.jpg)
 
 --- 
-# First Week 
-
-Prioritize developing muscle memory and getting exerience over mastering theory and concepts 
-
 ![inline](https://i.ytimg.com/vi/oRmOERq7vQQ/maxresdefault.jpg)
 
+--- 
+# People learn concrete-to-abstract, not abstract-to-concrete.[^2]
+![](https://upload.wikimedia.org/wikipedia/commons/8/88/PSM_V46_D167_Outer_surface_of_the_human_brain.jpg)
+
+[^2]: kylecoberly.com 
+
 
 --- 
-# First Week 
+# Concrete 
 
-Glossary 
-
---- 
-# First week 
-
-* Have a one-on-one with your new hire
-* Do this on a regular interval, weekly if possible
+```yaml
+kubectl get services -n kube-system
+kubectl get pods -n kube-system  
+kubectl get pods -n kube-system -o wide 
+```
 
 --- 
+# Abstract
+
+![inline](https://upload.wikimedia.org/wikipedia/commons/6/63/Pod-networking.png)
+
+
+--- 
+
+
+^ Have a one-on-one with your new hire and do this on a regular interval, weekly if possible
+
+--- 
+
 # First 90 Days 
 
-* Review the new engineer's progress as compared against the leveling doc
-* Promote them if they've leveled up! 
+![left](./images/three-months.png)
+
+---
+
+# Review the new engineer's progress as compared against your leveling doc.
+
+--- 
+
+90 Day Trial Period
 
 --- 
 # First 90 Days 
@@ -209,15 +224,10 @@ Glossary
 * Start flipping the ratio of learning plan work to work on the codebase 
 
 --- 
-# First 90 Days 
+### Encourage formal learning through exam prep, a book club, or an online course.
+![left 50%](https://www.cncf.io/wp-content/uploads/2018/04/kubernetes-ckad-color.png)
 
-* Consider encouraging your new engineer to tak a professional exam to accelerate their learning
 
-![inline](https://www.cncf.io/wp-content/uploads/2018/04/kubernetes-ckad-color.png)
-
-![inline](https://www.it-training.pro/wp-content/uploads/2016/12/lpi-roadmap.png)
-
-![inline](https://www.awsforbusiness.com/wp-content/uploads/2017/03/AWS-Certifications-5.jpg)
 
 
 --- 
@@ -244,7 +254,7 @@ Glossary
 ---
 
 
-![left 99%](https://media.giphy.com/media/9Gp5ZwY8FRvna/giphy.gif)
+![left 99%](https://farm7.staticflickr.com/6200/6102820227_0e556ac75f_b.jpg)
 
 ## kimschlesinger.com
 ## hirediversity.us 
