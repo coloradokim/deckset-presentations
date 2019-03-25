@@ -74,33 +74,35 @@ picture of capacity planning spreadsheet
 # Pull it Off (image)
 
 ---
-# Gradual Release of Responsibility 
-
-![inline](https://sites.google.com/a/mcoeapps.org/grr/_/rsrc/1264618718911/home/GRR_GraphicOverview.2010.png)
-
---- 
-
-# First Day
-Your leadership team should have these ready for your new hire: 
-
-* Leveling doc
-* Technical Onboarding Curriculum   
-
---- 
 # First Day 
 
-The new hire's manager should:
+![left](./images/day.png)
 
-* Start integrating the new hire onto their team 
-* Communicate a timeline for contributing to your codebase/client work 
 
----
+--- 
+# First Week 
 
-# Leadership Team Day One
+![left](./images/week.png)
+
+--- 
+# First 90 Days 
+
+![left](./images/three-months.png)
+
+--- 
+# First Year 
+
+![left](./images/year.png)
 
 --- 
 
-![inline 80%](https://imageog.flaticon.com/icons/png/512/38/38614.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)
+# First Day 
+
+![left](./images/day.png)
+
+--- 
+
+![inline](https://imageog.flaticon.com/icons/png/512/38/38614.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)
 
 ^ Clear, Measurable Behavioral Expectations
 
@@ -119,23 +121,21 @@ From [Truss](truss.works) Leveling Doc
 
 ---
 
-# First Day
-# Technical Onboarding Curriculum 
+
+##  Prepare a technical onboarding curriculum that is aligned with the day-to-day work of your engineers.
 
 
 --- 
-# Example Topics: 
+# Example Topics for Technical Onboarding: 
 
-* Git 
+* git and linux commands
 * yaml 
-* Shell Commands 
 * VPC with AWS and GCP 
-* Docker
-* Kubernetes 
+* Docker and Kubernetes 
 
 --- 
 
-##  Your junior engineer should complete projects, large and small, as part of the onboarding curriculum. 
+##  Your junior engineer should independently complete large and small projects as part of their technical onboarding. 
 
 ---
 
@@ -149,22 +149,28 @@ From [Truss](truss.works) Leveling Doc
 
 
 ---
-# Integrate Your New Hire into their team
+# First Day 
+
+![left](./images/day.png)
+
+
+---
+# Integrate your new hire into their team. 
+![](./images/team.jpg)
+
+^ Introduce them to the team and get them scheduled for all team meetingss
 
 --- 
-# First Day 
 
-* Introduce them to the team
-* Get them scheduled for all team meetings
+## Communicate a timeline for contributing to your codebase or client work 
 
 
----  
-# First Day 
-Communicate a timeline for contributing to your codebase/client work 
 
 
-## 1 week, 1 month, 6 months? 
+--- 
+# First Week 
 
+![left](./images/week.png)
 
 --- 
 # First Week 
@@ -227,24 +233,8 @@ Glossary
 * Promote them if they've leveled up! 
 * Pat yourself on the back 
 
-
 --- 
-# Gradual Release of Responsibility 
-
-![inline](https://sites.google.com/a/mcoeapps.org/grr/_/rsrc/1264618718911/home/GRR_GraphicOverview.2010.png)
-
-
-
-
-
-
-
-
---- 
-# Recap 
-Hire junior engineers
-Support them by setting goals in a learning plan and an engineering ladder 
-Get them doing real work ASAP through pairing and breaking down tasks into something they can do 
+![inline](https://media.giphy.com/media/82okbIOv8krUhwgHCz/giphy.gif)
 
 
 --- 
