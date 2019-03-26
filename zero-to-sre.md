@@ -6,7 +6,7 @@ footer: @kimschles
 ## Kim Schlesinger
 
 ---
-# Thesis Statement  
+### You can hire and level-up junior engineers if you have a compassionate company culture and support them their first 90 days.
 
 ---
 
@@ -107,23 +107,57 @@ footer: @kimschles
 ![inline](https://imageog.flaticon.com/icons/png/512/38/38614.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)
 
 
-
 --- 
 # Engineering Leveling Doc
-![left](https://secure.img1-fg.wfcdn.com/im/38786677/resize-h600-w600%5Ecompr-r85/3643/36436570/6+ft+Decorative+Ladder.jpg)
+
 
 --- 
-From [Truss](truss.works) Leveling Doc  
+![inline](https://lever-client-logos.s3.amazonaws.com/2d1148ec-eadf-4a80-9bda-c6b83effe7a8-1513116144395.png)
 
-![inline](./images/truss-page-1.jpg)
 
 --- 
-![inline](https://secure.img1-fg.wfcdn.com/im/38786677/resize-h600-w600%5Ecompr-r85/3643/36436570/6+ft+Decorative+Ladder.jpg)
+![inline](./images/truss-1.png)
+
+---
+![inline](./images/truss-2.png)
+
+---
+# Summary of the Role
+
+
+
+| **Novice** |  Is not yet ready to undertake work for a client. Should pass through this level quickly.  |
+|---|---|
+|  **Advanced Beginner** | Able to work as a junior engineer on a client team with more or less help from senior Trussel on team.  |
 
 
 ---
+![inlne 120%](./images/truss-3.png)
 
+--- 
+# Clear, Measurable Expectations 
 
+-- 
+
+Attempts to characterize and resolve roadblocks through 5-15 min Google searching before reporting.
+
+---
+# Clear, Measurable Expectations 
+
+-- 
+
+Breaks moderately-sized tasks down into smaller units of work upon request and reviews break-down with senior engineers
+
+--- 
+
+![inline](https://secure.img1-fg.wfcdn.com/im/38786677/resize-h600-w600%5Ecompr-r85/3643/36436570/6+ft+Decorative+Ladder.jpg)
+
+---
+# First Day 
+
+![left](./images/day.png)
+
+--- 
 ##  Prepare a technical onboarding curriculum that is aligned with the day-to-day work of your engineers.
 
 
@@ -279,11 +313,11 @@ kubectl get pods -n kube-system -o wide
 
 --- 
 
-![left 99%](https://farm7.staticflickr.com/6200/6102820227_0e556ac75f_b.jpg)
+![left 90%](https://farm7.staticflickr.com/6200/6102820227_0e556ac75f_b.jpg)
 
 ## kimschlesinger.com
 ## hirediversity.us 
-## reactiveops.com
+## @kimschles
 
 
 
