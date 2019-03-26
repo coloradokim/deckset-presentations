@@ -6,7 +6,8 @@ footer: @kimschles
 ## Kim Schlesinger
 
 ---
-### You can hire and level-up junior engineers if you have a compassionate company culture and support them their first 90 days.
+## Your company can transform a junior engineer to a mid-level engineer within one year. 
+
 
 ---
 
@@ -38,9 +39,16 @@ footer: @kimschles
 --- 
 # Agenda
 
-# Nice place to work  ![inline](./images/restaurant.png) 
-![inline](./images/chef-prep.png)
-![inline](./images/server.png)
+1. Your company's culture  
+1. Prepare for the junior SRE's day one 
+1. Provide them the resources and ongoing support 
+
+--- 
+
+![inline 60%](./images/restaurant.png) 
+![inline 50%](./images/chef-prep.png)
+![inline 50%](./images/server.png)
+
 
 --- 
 # What should be true about your company _before_ you hire junior engineers?
@@ -61,17 +69,22 @@ footer: @kimschles
 
 
 --- 
+# Culture of Error 
+
+1. Expect Error
+1. Manage the Tell
+1. Praise Risk Taking 
+
+--- 
 # Make engineering teams, not individual engineers, critical to your bottom line. 
 ![](https://www.publicdomainpictures.net/pictures/230000/nahled/money-1501252666apF.jpg)
 
 ---
-# Prepare 
+# Prepare &
 ![left](./images/chef-prep.png)
 
----
-
 # Serve 
-![left](./images/server.png)
+![right](./images/server.png)
 
 
 ---
@@ -122,10 +135,6 @@ footer: @kimschles
 ![inline](./images/truss-2.png)
 
 ---
-# Summary of the Role
-
-
-
 | **Novice** |  Is not yet ready to undertake work for a client. Should pass through this level quickly.  |
 |---|---|
 |  **Advanced Beginner** | Able to work as a junior engineer on a client team with more or less help from senior Trussel on team.  |
@@ -135,18 +144,12 @@ footer: @kimschles
 ![inlne 120%](./images/truss-3.png)
 
 --- 
-# Clear, Measurable Expectations 
 
--- 
+### Attempts to characterize and resolve roadblocks through 5-15 min Google searching before reporting.
 
-Attempts to characterize and resolve roadblocks through 5-15 min Google searching before reporting.
+--- 
 
----
-# Clear, Measurable Expectations 
-
--- 
-
-Breaks moderately-sized tasks down into smaller units of work upon request and reviews break-down with senior engineers
+### Breaks moderately-sized tasks down into smaller units of work upon request and reviews break-down with senior engineers
 
 --- 
 
@@ -158,11 +161,11 @@ Breaks moderately-sized tasks down into smaller units of work upon request and r
 ![left](./images/day.png)
 
 --- 
-##  Prepare a technical onboarding curriculum that is aligned with the day-to-day work of your engineers.
+##  Prepare a technical on-boarding curriculum that is aligned with the day-to-day work of your engineers.
 
 
 --- 
-# Example Topics for Technical Onboarding: 
+# Example Topics for Technical On-Boarding: 
 
 * git and linux commands
 * yaml 
@@ -171,7 +174,7 @@ Breaks moderately-sized tasks down into smaller units of work upon request and r
 
 --- 
 
-##  Your junior engineer should independently complete large and small projects as part of their technical onboarding. 
+##  Your junior engineer should independently complete large and small projects as part of their technical learning plan. 
 
 ---
 
@@ -180,9 +183,9 @@ Breaks moderately-sized tasks down into smaller units of work upon request and r
 
 
 --- 
-# ReactiveOps Technical Onboarding Curriculum 
+# ReactiveOps Apprentice Learning Plan
 
-<example>
+[https://github.com/reactiveops/apprentice-curriculum](https://github.com/reactiveops/apprentice-learning-plan)
 
 
 ---
@@ -217,7 +220,9 @@ Breaks moderately-sized tasks down into smaller units of work upon request and r
 ![inline](https://i.ytimg.com/vi/oRmOERq7vQQ/maxresdefault.jpg)
 
 --- 
-# People learn concrete-to-abstract, not abstract-to-concrete.[^1]
+# People learn 
+# concrete-to-abstract, 
+# not abstract-to-concrete.[^1]
 ![](https://upload.wikimedia.org/wikipedia/commons/8/88/PSM_V46_D167_Outer_surface_of_the_human_brain.jpg)
 
 [^1]: kylecoberly.com 
@@ -253,16 +258,18 @@ kubectl get pods -n kube-system -o wide
 
 ---
 
+# 90 Day Trial Period
+
+--- 
+
 # Review the new engineer's progress as compared against your leveling doc.
 
---- 
-
-90 Day Trial Period
 
 --- 
-# First 90 Days 
 
-* Start flipping the ratio of learning plan work to work on the codebase 
+![inline](https://farm6.staticflickr.com/5187/5751301741_aa8463e472_b.jpg)
+
+^ Start flipping the ratio of learning plan work to work on the codebase 
 
 --- 
 ### Encourage formal learning through exam prep, a book club, or an online course.
@@ -286,10 +293,11 @@ kubectl get pods -n kube-system -o wide
 ![left](./images/year.png)
 
 ---
-# First Year 
+# Review the new engineer's progress as compared against your leveling doc.
 
-* Review the new engineer's progress as compared against the leveling doc
-* Promote them if they've leveled up! 
+---
+
+# Promote your SRE when they've leveled up! 
 
 
 --- 
@@ -299,10 +307,17 @@ kubectl get pods -n kube-system -o wide
 
 --- 
 
-# Thesis statement 
+## Your company can transform a junior engineer to a mid-level engineer within one year. 
 
 ---
 # Credits 
+* Photos by [WOCinTech Chat](https://www.wocintechchat.com/wocintechphotos) 
+* [Culture of Error](https://www.wiley.com/legacy/downloads/CultureofError_Ebook.pdf) by Doug Lemov
+* [Steve Kinney](https://twitter.com/stevekinney) 
+* [Kyle Coberly](https://kylecoberly.com/) 
+* [Truss Leveling](https://docs.google.com/document/d/1AbJBFEkVhSDSRty8oN44PTgiL1NK3X8xe2k4tSpKhhc/edit#heading=h.ys7hvdzb2ga5)
+* [ReactiveOps Apprentice Learning Plan](https://github.com/reactiveops/apprentice-learning-plan)
+
 
 --- 
 # We're Hiring! 
