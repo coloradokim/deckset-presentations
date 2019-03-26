@@ -36,12 +36,15 @@ footer: @kimschles
 # Zero to SRE 
 
 --- 
+# Agenda
 
-# 1. Prepare (image)
-# 2. Pull it Off (image)
+# Nice place to work  ![inline](./images/restaurant.png) 
+![inline](./images/chef-prep.png)
+![inline](./images/server.png)
 
 --- 
 # What should be true about your company _before_ you hire junior engineers?
+![](./images/restaurant.png)
 
 ---
 
@@ -51,7 +54,7 @@ footer: @kimschles
 # Guarantee 20% Time for Learning 
 
 --- 
-picture of capacity planning spreadsheet 
+![inline](./images/trello.png)
 
 --- 
 # Create a Culture of Error 
@@ -62,11 +65,14 @@ picture of capacity planning spreadsheet
 ![](https://www.publicdomainpictures.net/pictures/230000/nahled/money-1501252666apF.jpg)
 
 ---
-# Prepare (image)
+# Prepare 
+![left](./images/chef-prep.png)
 
 ---
 
-# Pull it Off (image)
+# Serve 
+![left](./images/server.png)
+
 
 ---
 # First Day 
@@ -135,7 +141,8 @@ From [Truss](truss.works) Leveling Doc
 
 ---
 
-(picture for systems of accountability and support)
+## Develop systems of support and accountability for your junior SRE. 
+![](https://images.pexels.com/photos/34225/spider-web-with-water-beads-network-dewdrop.jpg?cs=srgb&dl=black-and-white-close-up-cobweb-34225.jpg&fm=jpg)
 
 
 --- 
@@ -151,10 +158,8 @@ From [Truss](truss.works) Leveling Doc
 
 
 ---
-# Integrate your new hire into their team.[^1]
+# Integrate your new hire into their team on day one.
 ![](./images/team.jpg)
-
-[^1]: Photo by #WOCinTech Chat.
 
 ^ Introduce them to the team and get them scheduled for all team meetings
 
@@ -178,10 +183,10 @@ From [Truss](truss.works) Leveling Doc
 ![inline](https://i.ytimg.com/vi/oRmOERq7vQQ/maxresdefault.jpg)
 
 --- 
-# People learn concrete-to-abstract, not abstract-to-concrete.[^2]
+# People learn concrete-to-abstract, not abstract-to-concrete.[^1]
 ![](https://upload.wikimedia.org/wikipedia/commons/8/88/PSM_V46_D167_Outer_surface_of_the_human_brain.jpg)
 
-[^2]: kylecoberly.com 
+[^1]: kylecoberly.com 
 
 
 --- 
@@ -200,6 +205,8 @@ kubectl get pods -n kube-system -o wide
 
 
 --- 
+# Regular one-on-ones with their manager. 
+![left 95%] (./images/two-people.jpg)
 
 
 ^ Have a one-on-one with your new hire and do this on a regular interval, weekly if possible
@@ -231,28 +238,46 @@ kubectl get pods -n kube-system -o wide
 
 
 --- 
-# First 90 Days 
+# Hire more junior engineers! 
 
-* Start hiring more juniors
-* It's lonely if you're the only junior in an ocean of seniors 
+--- 
+
+![inline](https://media.giphy.com/media/Esw1Y0I5Nkjg4/giphy.gif)
+
+^ It's lonely if you're the only junior in an ocean of seniors 
 
 --- 
 # First Year 
 
+![left](./images/year.png)
+
+---
+# First Year 
+
 * Review the new engineer's progress as compared against the leveling doc
 * Promote them if they've leveled up! 
-* Pat yourself on the back 
+
 
 --- 
 ![inline](https://media.giphy.com/media/82okbIOv8krUhwgHCz/giphy.gif)
 
+^ Pat your self on the back, you've done something uncommon: 
 
 --- 
 
 # Thesis statement 
 
 ---
+# Credits 
 
+--- 
+# We're Hiring! 
+
+![inline](./images/RO-Logo-White.svg)
+## https://reactiveops.com/careers
+
+
+--- 
 
 ![left 99%](https://farm7.staticflickr.com/6200/6102820227_0e556ac75f_b.jpg)
 
