@@ -14,8 +14,9 @@ footer: @kimschles
 ![left 75%](http://res.cloudinary.com/kimschlesinger/image/upload/c_scale,w_2960/v1524009870/kimschlesinger-headshot.jpg)
 
 # Kim Schlesinger
-### Ops, Software & Education
 
+--- 
+![inline](https://news-img-9a9cfd28311db221b19757424a2f3b66.s3.amazonaws.com/articles/teach-for-america-logo.png)
 
 ---
 ![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1552522996/logo-white.png)
@@ -69,15 +70,23 @@ footer: @kimschles
 
 
 --- 
-# Culture of Error 
-
-1. Expect Error
-1. Manage the Tell
-1. Praise Risk Taking 
+## Expect Error and 
+## Praise Risk Taking 
 
 --- 
 # Make engineering teams, not individual engineers, critical to your bottom line. 
 ![](https://www.publicdomainpictures.net/pictures/230000/nahled/money-1501252666apF.jpg)
+
+---
+![inline](./images/restaurant.png)
+
+### Guarantee 20% Time for Learning 
+### Create a Culture of Error 
+### Leverage teams, not individuals 
+
+
+
+
 
 ---
 # Prepare &
