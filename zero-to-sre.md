@@ -42,7 +42,7 @@ footer: @kimschles
 
 1. Your company's culture  
 1. Prepare for the junior SRE's day one 
-1. Provide them the resources and ongoing support 
+1. Provide them personalized resources and ongoing support 
 
 --- 
 
@@ -89,10 +89,10 @@ footer: @kimschles
 
 
 ---
-# Prepare &
+
 ![left](./images/chef-prep.png)
 
-# Serve 
+
 ![right](./images/server.png)
 
 
@@ -150,7 +150,7 @@ footer: @kimschles
 
 
 ---
-![inlne 120%](./images/truss-3.png)
+![inline](./images/truss-3.png)
 
 --- 
 
@@ -170,11 +170,11 @@ footer: @kimschles
 ![left](./images/day.png)
 
 --- 
-##  Prepare a technical on-boarding curriculum that is aligned with the day-to-day work of your engineers.
+##  Prepare a technical learning plan that is aligned with the day-to-day work of your engineers.
 
 
 --- 
-# Example Topics for Technical On-Boarding: 
+# Example Topics for the Learning Plan: 
 
 * git and linux commands
 * yaml 
@@ -192,7 +192,8 @@ footer: @kimschles
 
 
 --- 
-# ReactiveOps Apprentice Learning Plan
+# ReactiveOps Apprentice 
+# Learning Plan
 
 [https://github.com/reactiveops/apprentice-curriculum](https://github.com/reactiveops/apprentice-learning-plan)
 
@@ -253,7 +254,7 @@ kubectl get pods -n kube-system -o wide
 
 
 --- 
-# Regular one-on-ones with their manager. 
+# Regular one-on-ones with their manager
 ![left 95%] (./images/two-people.jpg)
 
 
