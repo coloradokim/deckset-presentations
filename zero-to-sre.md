@@ -2,8 +2,8 @@ footer: @kimschles
 
 
 # Zero to SRE 
-
 ## Kim Schlesinger
+### SRECon 2019 (Brookyln)
 
 ---
 ## Your company can transform a junior engineer to a mid-level engineer within one year. 
@@ -195,7 +195,7 @@ footer: @kimschles
 # ReactiveOps Apprentice 
 # Learning Plan
 
-[https://github.com/reactiveops/apprentice-curriculum](https://github.com/reactiveops/apprentice-learning-plan)
+[https://github.com/reactiveops/apprentice-learning-plan](https://github.com/reactiveops/apprentice-learning-plan)
 
 
 ---
