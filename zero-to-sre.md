@@ -3,8 +3,7 @@ footer: @kimschles
 
 # Zero to SRE 
 ## Kim Schlesinger
-### SRECon 2019 (Brookyln)
-
+### Devops Days Denver- April 2019
 ---
 ## Your company can transform a junior engineer to a mid-level engineer within one year. 
 
@@ -17,9 +16,6 @@ footer: @kimschles
 
 --- 
 ![inline](https://news-img-9a9cfd28311db221b19757424a2f3b66.s3.amazonaws.com/articles/teach-for-america-logo.png)
-
----
-![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1552522996/logo-white.png)
 
 
 ---
@@ -68,10 +64,11 @@ footer: @kimschles
 --- 
 # Create a Culture of Error 
 
-
---- 
+---
 ## Expect Error and 
-## Praise Risk Taking 
+## Praise Risk Taking
+
+![inline](http://www.wiley.com/legacy/email_templates/images/TLAC_Culture_Error.gif)
 
 --- 
 # Make engineering teams, not individual engineers, critical to your bottom line. 
@@ -148,17 +145,24 @@ footer: @kimschles
 |---|---|
 |  **Advanced Beginner** | Able to work as a junior engineer on a client team with more or less help from senior Trussel on team.  |
 
+[truss.works](truss.works) 
+
 
 ---
 ![inline](./images/truss-3.png)
 
 --- 
 
-### Attempts to characterize and resolve roadblocks through 5-15 min Google searching before reporting.
+# Attempts to characterize and resolve roadblocks through 5-15 min Google searching before reporting. 
+[truss.works](truss.works)
+
+
 
 --- 
 
-### Breaks moderately-sized tasks down into smaller units of work upon request and reviews break-down with senior engineers
+# Breaks moderately-sized tasks down into smaller units of work upon request and reviews break-down with senior engineers.
+
+[truss.works](truss.works) 
 
 --- 
 
@@ -232,10 +236,12 @@ footer: @kimschles
 --- 
 # People learn 
 # concrete-to-abstract, 
-# not abstract-to-concrete.[^1]
+# not abstract-to-concrete.
+
+## [kylecoberly.com](kylecoberly.com)
+
 ![](https://upload.wikimedia.org/wikipedia/commons/8/88/PSM_V46_D167_Outer_surface_of_the_human_brain.jpg)
 
-[^1]: kylecoberly.com 
 
 
 --- 
@@ -320,6 +326,13 @@ kubectl get pods -n kube-system -o wide
 ## Your company can transform a junior engineer to a mid-level engineer within one year. 
 
 ---
+# Agenda
+
+1. Your company's culture  
+1. Prepare for the junior SRE's day one 
+1. Provide them personalized resources and ongoing support 
+
+---
 # Credits 
 * Photos by [WOCinTech Chat](https://www.wocintechchat.com/wocintechphotos) 
 * [Culture of Error](https://www.wiley.com/legacy/downloads/CultureofError_Ebook.pdf) by Doug Lemov
@@ -341,7 +354,6 @@ kubectl get pods -n kube-system -o wide
 ![left 90%](https://farm7.staticflickr.com/6200/6102820227_0e556ac75f_b.jpg)
 
 ## kimschlesinger.com
-## hirediversity.us 
 ## @kimschles
 
 
