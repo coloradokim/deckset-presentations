@@ -1,40 +1,51 @@
-footer: kimschles
-slidenumbers: true
+footer: @kimschles
 
-![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1552522996/logo-white.png)
 
----
+# Refactoring for Accessibility 
+
+
+### Kim Schlesinger
+### Denver Node.js Meetup - May 2019
+
+--- 
+## An accessibility refactor will improve your product and your codebase more effectively than a code-only refactor. 
+
+
+--- 
+
 ![left 75%](http://res.cloudinary.com/kimschlesinger/image/upload/c_scale,w_2960/v1524009870/kimschlesinger-headshot.jpg)
 
 # Kim Schlesinger
 ### Ops, Education & Software 
 
---- 
-![inline](./images/RO-Logo-White.svg)
 
 --- 
 
 
 ![inline](https://pbs.twimg.com/media/DzdauLfUcAITSMd.jpg:large)
 
---- 
-
-
-![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1552522996/logo-white.png)
 
 ---
-
-# Refactoring hirediversity.us
-
---- 
-# The Journey 
-
-![left](images/path.jpg)
+![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1552522996/logo-white.png)
 
 ^ Company is ~2 years old 
 Platform is pushed out quickly with lots of developers 
 Corners were cut 
 I'm leaving at the end of the month 
+
+
+---
+# Roadmap 
+
+1. Why
+1. What 
+1. How
+
+--- 
+
+![inline](https://media.giphy.com/media/1jajMAVf2vN9KxoFfw/giphy.gif)
+
+^ Why? 
 
 ---
 ## I thought I knew more than I did... 
@@ -46,6 +57,35 @@ I'm leaving at the end of the month
 --- 
 ![inline](https://cdn-images-1.medium.com/max/1200/1*eAP4oWRbmQh05pwNwtv0gw.png)
 
+
+--- 
+# Dunning-Kruger Effect
+
+> is a psychological phenomenon in which people of the lowest ability in a subject rate themselves as most competent compared to others.
+
+-- [Hubspot](https://blog.hubspot.com/marketing/dunning-kruger)
+
+--- 
+# [WebAIM Million](https://webaim.org/projects/million/)
+
+![inline](images/webaim-chart.png)
+
+
+97.8% of home pages had detectable WCAG 2 failures
+
+--- 
+
+## 2.2% of home pages had no WCAG 2 failures
+
+--- 
+
+# 👎🏼
+
+--- 
+
+
+![inline](https://media.giphy.com/media/w78Swf2N8pkFkbM7b4/giphy.gif)
+
 --- 
 # What is accessibility? 
 
@@ -53,25 +93,74 @@ I'm leaving at the end of the month
 
 --WC3 Web Accessibility Initiative
 
-
----
-# Accessibility Lessons 
-1. Use multiple tools to identify issues 
-1. Commit to accessibility being an ongoing process, not a one time fix
-1. An accessibility refactor may be more valuable than a code refactor  
+--- 
+# Question: How do we know when something is accessible and when it's not? 
 
 --- 
 
-## 1. Use multiple tools to identify accessibility issues 
+# Answer: STANDARDS
+
+--- 
+![left 110%](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Foot_on_white_background.jpg/230px-Foot_on_white_background.jpg)
+![right](https://cdn4.vectorstock.com/i/1000x1000/85/88/colorful-cartoon-icon-poster-ruler-vector-20518588.jpg)
 
 ---
+# Web Standards 
+
+![inline 200%](https://www.w3.org/Icons/w3c_home.png)
+
+### The World Wide Web Consortium
+
+Goal: Interoperability between different types of computers and browsers
+
+--- 
+# A short list of W3C Standards
+
+* HTML
+* CSS
+* DOM
+* XML
+* ARIA 
+* XForms
+* MathML
+
+---
+# WCAG 
+
+## Web Content Accessibility Guidelines
+### Versions 2.0 and 2.1 
+
+--- 
+# POUR 
+
+### Perceivable
+### Operable
+### Understandable
+### Robust
+
+--- 
+# [WCAG 2.0 Guidelines](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0&showtechniques=11)
+
+![inline](images/wcag.png)
+
+
+---
+
+![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Checklist_Flat_Icon_Vector.svg/512px-Checklist_Flat_Icon_Vector.svg.png)
+
+
+--- 
+# Other standards or guidelines 
+
+* Section 508
+
+--- 
+
+![inline](https://media.giphy.com/media/MB6mmz21wDPZc2827I/giphy.gif)
+
+---
+
 ## 1. Use multiple tools to identify accessibility issues 
-
-* WAVE Extension 
-* [A11y Checklist](https://a11yproject.com/checklist)
-* Manual Testing with a Screen Reader 
-* Good examples you can deconstruct 
-
 
 ---
 ## WAVE Extension 
@@ -125,16 +214,10 @@ const CompanyProfileCard = (props : Props) => (
 ```
 ---
 
-![left 25%](https://www.goodfreephotos.com/albums/vector-images/colorful-brain-map-vector-clipart.png)
-
-Use JS template literals to dynamically populate alt text for images 
+## Use JS template literals to dynamically populate alt text for images. 
 
 ---
-
-## 1. Use multiple tools to identify accessibility issues 
-
----
-## 1. Use multiple tools to identify accessibility issues 
+## Checklists, Exemplars and Screenreaders
 
 * [A11y Checklist](https://a11yproject.com/checklist)
 * Good examples you can deconstruct 
@@ -192,8 +275,7 @@ width: 1px;
 
 
 ---
-
-![left 25%](https://www.goodfreephotos.com/albums/vector-images/colorful-brain-map-vector-clipart.png)
+## Skip Navigation Links
 
 * Create a way for people using screen readers to skip to the main content of the page 
 
@@ -247,8 +329,7 @@ export default SkipNav;
 
 ---
 # Why? 
-Accessibility statements are important for several reasons:
-> * Show your users that you care about accessibility and about them
+* Show your users that you care about accessibility and about them
 * Provide them with information about the accessibility of your content
 * Demonstrate commitment to accessibility, and to social responsibility 
 -- [W3C Web Accessibility Initiative](https://www.w3.org/WAI/planning/statements/)
@@ -257,39 +338,17 @@ Accessibility statements are important for several reasons:
 ---
 # Examples 
 
-* [diversity Accessibility Statement](https://company-profile-a960a.firebaseapp.com/accessibility-statement/)
+* [diversity Accessibility Statement](https://hirediversity.us/accessibility-statement/)
 * [Eric Bailey Accessibility Statement](https://ericwbailey.design/accessibility-statement.html)
 
 --- 
-
-![left 25%](https://www.goodfreephotos.com/albums/vector-images/colorful-brain-map-vector-clipart.png)
-
+## Accessibility Statement
 * Include an accessibility statement to state your intentions, your known accessibility issues and how to contact someone if there are barriers to access 
 * Continue working on making your site accessible, and update your statement as needed 
 
-
----
-## 2. Commit to accessibility being an ongoing process, not a one time fix
-
-
 --- 
 
-## 3. An accessibility refactor may be more valuable than a code refactor  
-
---- 
-
-# WebAIM Million 
-
-* 97.8% of home pages had detectable WCAG 2 failures
-
-* [WebAIM Million](https://webaim.org/projects/million/)
-
-
---- 
-![left 25%](https://www.goodfreephotos.com/albums/vector-images/colorful-brain-map-vector-clipart.png)
-
-* Doing an accessibility refactor will help you remember who your users are and why your product exists 
-* An accessibility refactor will force you to clean up your code 
+## An accessibility refactor will improve your product and your codebase more effectively than a code-only refactor. 
 
 
 ---
@@ -317,13 +376,21 @@ Accessibility statements are important for several reasons:
 
 * Attend the the [Front Range Accessibility and Inclusive Design Meetup](https://www.meetup.com/a11yFR/) in Boulder! 
 * Subscribe to the A11y Weekly Newsletter 
+* Come to Develop Denver! 
 
 --- 
 # Recap 
 
+1. Why 
+1. What
+1. How
+
+---
+# How
+
 1. Use multiple tools to identify issues 
 1. Commit to accessibility being an ongoing process, not a one time fix
-1. Consider prioritizing an accessibility refactor over a code refactor
+1. Insist that developing accessible applications is core to your organization
 
 ---
 # Accessibility Resources

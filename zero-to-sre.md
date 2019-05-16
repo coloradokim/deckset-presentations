@@ -3,7 +3,7 @@ footer: @kimschles
 
 # Zero to SRE 
 ## Kim Schlesinger
-### Devops Days Denver- April 2019
+### Devops Days Rockies April 2019
 ---
 ## Your company can transform a junior engineer to a mid-level engineer within one year. 
 
