@@ -43,7 +43,7 @@ I'm leaving at the end of the month
 
 --- 
 
-![inline](https://media.giphy.com/media/1jajMAVf2vN9KxoFfw/giphy.gif)
+# The Why 
 
 ^ Why? 
 
@@ -84,7 +84,7 @@ I'm leaving at the end of the month
 --- 
 
 
-![inline](https://media.giphy.com/media/w78Swf2N8pkFkbM7b4/giphy.gif)
+# The What
 
 --- 
 # What is accessibility? 
@@ -156,7 +156,7 @@ Goal: Interoperability between different types of computers and browsers
 
 --- 
 
-![inline](https://media.giphy.com/media/MB6mmz21wDPZc2827I/giphy.gif)
+# The How
 
 ---
 
