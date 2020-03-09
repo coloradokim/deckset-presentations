@@ -4,10 +4,6 @@
 
 ---
 
-# Meetups
-
----
-
 # Learning Objectives
 By the end of this workshop, you will be able to:
 
@@ -219,8 +215,7 @@ Describe and demonstrate the teaching technique ‘Targeted Questioning’
 
 Kim Schlesinger
 
-kim.schlesinger@galvanize.com
-`@kim` on DenverDevs
+@kimschles
 
 kimschlesinger.com
 

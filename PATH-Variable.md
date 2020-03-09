@@ -3,24 +3,6 @@ slidenumbers: true
 
 # ⚡️ $PATH ⚡️
 
---- 
-![inline](./images/dvlpdnvr.pdf)
-
-
---- 
-![inline](https://res.cloudinary.com/kimschlesinger/image/upload/v1539033708/Call_for_partners_v2.png)
-
-
---- 
-
-![inline](./images/RO-Logo-White.svg)
-
----
-# Kim Schlesinger 
-
-
-![inline 50%](http://res.cloudinary.com/kimschlesinger/image/upload/c_scale,w_2960/v1524009870/kimschlesinger-headshot.jpg)
-
 ---
 # 👀
 `echo $PATH` 
@@ -95,3 +77,4 @@ From the command line. Only lasts in current shell (no export)
 kimschlesinger.com
 hirediversity.us 
 
+`
