@@ -9,7 +9,7 @@ footer: @kimschles
 --- 
 
 # Agenda 
-1. Facts about nginx   
+1. About nginx   
 1. Demo setup 
 1. nginx as a
     * Reverse Proxy 
@@ -18,8 +18,25 @@ footer: @kimschles
     * SSL Terminator
 1. Recap  
 
+---
+# Kim Schlesinger
+
+![inline](images/kim.png)
+
 --- 
-# Facts about nginx 
+# Agenda 
+1. About nginx   
+
+
+
+--- 
+![inline 20%](https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg)
+
+--- 
+# About nginx 
+
+
+
 * pronounced "engine-x" 
 * A web server, reverse proxy and load balancer 
 * First developed in 2004 by Igor Sysoev 
@@ -28,49 +45,83 @@ footer: @kimschles
 [^1]: Concurrently handling ten thousand connections
 
 ---
-# Moar Facts about nginx 
+# Moar about nginx 
 * Open Source nginx and nginx Plus
-* nginx powers 1.84 million domains and now serves 28.5% active websites.[^2]
+* Serves 28.5% active sites on the web![^2]
     * Apache is 2nd with 27.8% websites
 
 [^2]: [Netcraft April 2020 Web Server Survey](https://news.netcraft.com/archives/category/web-server-survey/)
 
 --- 
-Q: How do I know which webserver serving my content? 
+
+## Q: How do I know which webserver is serving my content? 
+![inline](https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
 
 --- 
 
-Q: How do I know which webserver serving my content? 
-A: Look a the http response headers using your browser's dev tools.
+## A: Look a the http response headers using your browser's dev tools.
+
+* Open dev tools
+* Go to the network tab
+* Refresh the page
+* Look at response headers 
 
 ---
-
-
+![80%](/Users/kschlesinger/presentations/images/dev-tools-view.png)
 
 
 --- 
+Something about nginx and node.js 
 
-# Setup 
+--- 
+
+Something about JS programming vs. configuration management 
+
+--- 
+# Agenda 
+1. About nginx   
+1. Demo setup 
+1. nginx as a
+    * Reverse Proxy 
+    * Web Cache
+    * Load Balancer 
+    * SSL Terminator
+1. Recap  
+
+---
+# Agenda 
+1. About nginx   
+1. Demo setup
+1. nginx as a
+    * Reverse Proxy 
+    * Web Cache
+    * Load Balancer 
+    * SSL Terminator
+1. Recap  
+
+-- 
+
+
+# Demo Setup 
 * Digital Ocean Droplet 
+    * Ubuntu `18.04.3`
 * Dockerized Node.js apps 
+    * Code at github
+    * Docker images at docker hub
 
 
 
 --- 
-When you install nginx, the installator will put your config file somewhere like `/etc/nginx/sites-available/default` (digital ocean)
+When you install nginx, the installator will put your config file somewhere like `/etc/nginx/sites-available/default`
 
-proxy_pass directive    
 
 
 Reverse Proxy Server 
+
 ```
 server {
-    listen 80;
-
-    server_name nodejs-server;
-
     location / {
-        proxy_pass http://167.172.126.205:8080/;
+        proxy_pass http://<IP_ADDRESS_OF_YOUR_SERVER>:8080/;
         proxy_http_version 1.1;
         proxy_set_header Upgrade $http_upgrade;
         proxy_set_header Connection 'upgrade';
@@ -80,10 +131,6 @@ server {
 }
 ```
 
-
-
-
-the response headers tell you the server! 
 
 
 
